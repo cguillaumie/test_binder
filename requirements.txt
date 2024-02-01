@@ -1,4 +1,4 @@
-Jupyter
 Pandas
 Plotly
-Scikit-learn
+IPython.display
+ipywidgets
