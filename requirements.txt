@@ -1,4 +1,4 @@
 Pandas
 Plotly
-IPython.display
-ipywidgets
+IPython
+Ipywidgets
