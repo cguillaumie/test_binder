@@ -3,3 +3,4 @@ Plotly
 IPython
 Ipywidgets
 voila
+jupyter
