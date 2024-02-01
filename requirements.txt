@@ -1,0 +1,4 @@
+Jupyter
+Pandas
+Plotly
+Scikit-learn
