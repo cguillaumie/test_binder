@@ -2,3 +2,4 @@ Pandas
 Plotly
 IPython
 Ipywidgets
+voila
